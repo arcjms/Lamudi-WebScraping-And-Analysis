@@ -4,9 +4,6 @@ venv/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore the CSV file if it's generated dynamically
-property_data.csv
-
 # Ignore other unnecessary or temporary files
 *.log
 *.tmp
